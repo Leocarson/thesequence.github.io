@@ -1,4 +1,5 @@
 
 $(document).ready(function(){
-   $('body').append('<h1>Javascript works!</h1>'); 
+   $('1').fadeIn("slow").delay(1000);
+   $('2').fadeIn("slow");
 });
